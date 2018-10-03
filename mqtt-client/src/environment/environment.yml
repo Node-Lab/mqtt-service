@@ -1,0 +1,3 @@
+mqtt:
+  host: "mqtt://localhost"
+  port: 1883
